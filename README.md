@@ -1,42 +1,55 @@
-# 👋 안녕하세요, [Son A el / Luel ]입니다!
+<h3 align="center">A passionate developer from South Korea</h3>
 
-### 💫 "코드로 세상을 변화시키고 싶은 개발자입니다."
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=1&label=Profile%20views&color=0e75b6&style=flat" alt="1" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=1" alt="1" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+- 🔭 I’m currently working on **공사중...**
+
+- 🌱 I’m currently learning **배워가는 중..**
+
+- 👯 I’m looking to collaborate on **찾아가는 중...**
+
+- 🤝 I’m looking for help with **알아보는 중...**
+
+- 👨‍💻 All of my projects are available at [건설중...](건설중...)
+
+- 📝 I regularly write articles on [채워가는 중..](채워가는 중..)
+
+- 💬 Asn factk me about **Java**
+
+- 📫 How to reach me **sonael121@hs.ac.kr**
+
+- 📄 Know about my experiences [청소중...](청소중...)
+
+- ⚡ Fun fact **ing... 중**
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=[본인ID]&label=Profile%20Views&color=0e75b6&style=flat" alt="views" />
+<a href="https://dev.to/1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="1" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="1" height="30" width="40" /></a>
+<a href="https://codesandbox.com/1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="1" height="30" width="40" /></a>
+<a href="https://fb.com/1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="1" height="30" width="40" /></a>
+<a href="https://dribbble.com/1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="1" height="30" width="40" /></a>
+<a href="https://hashnode.com/1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="1" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="1" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="1" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="1" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="1" height="30" width="40" /></a>
+<a href="https://discord.gg/1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1" height="30" width="40" /></a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-### 🛠 Tech Stack
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=1&show_icons=true&locale=en&layout=compact" alt="1" /></p>
 
-**Languages** ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=1&show_icons=true&locale=en" alt="1" /></p>
 
-**Frontend & Backend** ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-
----
-
-### 📊 My GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[본인ID]&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[본인ID]&layout=compact&theme=radical"/>
-</p>
-
----
-
-### 🐣 Latest Blog Posts
-* [포스트 제목 1](링크)
-* [포스트 제목 2](링크)
-
----
-
-### 📫 Connect with Me
-<p align="left">
-<a href="mailto:[이메일주소]" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-<a href="[블로그주소]" target="_blank"><img src="https://img.shields.io/badge/Blog-03C75A?style=for-the-badge&logo=Naver&logoColor=white"/></a>
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=1&" alt="1" /></p>
