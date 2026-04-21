@@ -28,7 +28,6 @@
 
 - ⚡ Fun fact **ing... 중**
 
-### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
