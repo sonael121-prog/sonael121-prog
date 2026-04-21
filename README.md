@@ -1,4 +1,6 @@
-<h3 align="center">A passionate developer from South Korea</h3>
+# 👋 안녕하세요, [Son A el / Luel ]입니다!
+
+### 💫 "한신대학교 학생 입니다."
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=1&label=Profile%20views&color=0e75b6&style=flat" alt="1" /> </p>
 
